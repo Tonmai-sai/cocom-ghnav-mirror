@@ -1,4 +1,4 @@
 # router service settings (default branch)
 [router]
 mode = "steady"
-MAX_HOPS = 784
+MAX_HOPS = 719
