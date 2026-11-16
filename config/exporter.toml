@@ -1,4 +1,4 @@
 # exporter service settings (default branch)
 [exporter]
 mode = "eager"
-ROWS_PER_FILE = 917
+ROWS_PER_FILE = 625
