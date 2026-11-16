@@ -1,0 +1,4 @@
+# scheduler service settings (default branch)
+[scheduler]
+mode = "steady"
+TICK_MS = 274

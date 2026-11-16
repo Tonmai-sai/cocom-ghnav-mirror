@@ -1,0 +1,4 @@
+# mailer service settings (default branch)
+[mailer]
+mode = "steady"
+SEND_RATE = 133

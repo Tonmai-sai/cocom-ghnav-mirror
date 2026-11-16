@@ -1,0 +1,4 @@
+# uploader service settings (default branch)
+[uploader]
+mode = "steady"
+PART_SIZE_KB = 420

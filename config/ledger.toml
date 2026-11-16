@@ -1,0 +1,4 @@
+# ledger service settings (default branch)
+[ledger]
+mode = "eager"
+SNAPSHOT_EVERY = 311

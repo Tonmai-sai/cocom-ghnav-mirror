@@ -1,0 +1,4 @@
+# cache service settings (default branch)
+[cache]
+mode = "steady"
+EVICT_BATCH = 112

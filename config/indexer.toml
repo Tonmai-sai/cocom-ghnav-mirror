@@ -1,0 +1,4 @@
+# indexer service settings (default branch)
+[indexer]
+mode = "eager"
+MERGE_FACTOR = 157

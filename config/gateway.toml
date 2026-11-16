@@ -1,0 +1,4 @@
+# gateway service settings (default branch)
+[gateway]
+mode = "steady"
+CONN_LIMIT = 503
