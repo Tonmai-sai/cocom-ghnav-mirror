@@ -1,4 +1,4 @@
 # auth service settings (default branch)
 [auth]
 mode = "lazy"
-SESSION_TTL_S = 935
+SESSION_TTL_S = 475
